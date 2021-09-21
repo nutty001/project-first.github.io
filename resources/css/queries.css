@@ -48,7 +48,9 @@
         width: 100%;
         margin: 0 0 4% 0%;
     }
-    
+    .hero-text-box{
+        padding-top: 400px;
+    }
     .main-nav{display: none;}
     
     h1{font-size: 180%}
